@@ -1,1 +1,21 @@
-"# arduino" 
+To do list: 
+ - [ ] Temperature sensor module
+ - [ ] Automatic flashing colorful LED module
+ - [ ] Mini magnetic reed modules
+ - [ ] Hall magnetic sensor module
+ - [ ] [[IR Receiver]]
+ - [ ] Class Bihor magnetic sensor
+ - [ ] Magic light cup module
+ - [ ] Rotary encoder module
+ - [ ] Optical broken module
+ - [ ] Detect the heartbeat module
+ - [ ] Reed module
+ - [ ] Obstacle avoidance sensor module
+ - [ ] Hunt sensor module
+ - [ ] Mercury open optical module
+ - [ ] 3MM 2-color LED module
+ - [ ] Active buzzer module
+ - [ ] Microphone sound sensor module
+ - [ ] Laser sensor module
+ - [ ] Temperature sensor module
+ - [ ] Linear magnetic Hall sensors
