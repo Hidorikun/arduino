@@ -7,4 +7,4 @@ Schematic
 ![[RGB LED Module Schematic.png]]
 
 ![Schematic](./schematic.png)
-![Schematic](./RGB LED Module.png)
+![Schematic](./"RGB LED Module.png")
